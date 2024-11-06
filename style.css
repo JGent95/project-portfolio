@@ -1,0 +1,30 @@
+nav {
+  align-items: center;
+  text-align: left;
+  background-color: red;
+  color: black;
+  height: 50px;
+  padding-bottom: 25px;
+}
+div {
+  display: block;
+}
+#links {
+  text-align: right;
+}
+#index-quote {
+  text-align: center;
+  text-decoration: underline;
+  color: red;
+}
+#about-header {
+  text-align: center;
+  text-decoration: underline;
+}
+#portfolio-header {
+  text-align: center;
+}
+.portfolio-img {
+  width: 550px;
+  height: 350px;
+}
